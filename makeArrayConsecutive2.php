@@ -1,5 +1,5 @@
 /*
- *MakeArrayConsecutive2
+ *makeArrayConsecutive2
  *https://codefights.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC
  *
  */
